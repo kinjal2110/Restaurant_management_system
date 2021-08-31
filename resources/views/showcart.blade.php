@@ -178,7 +178,7 @@ https://templatemo.com/tm-558-klassy-cafe
         <tr>
             <td> <label for="">Address</label></td>
             <td>
-                <textarea name="" id="" cols="30" rows="10"></textarea>
+                <textarea name="address" id="" cols="30" rows="10"></textarea>
             </td>
         </tr>
         <tr>
